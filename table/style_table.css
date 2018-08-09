@@ -1,0 +1,72 @@
+﻿body {
+    background-color: black;
+}
+.view{
+    table-layout: fixed;
+}
+caption {
+    text-align: center;
+}   
+    
+.changes {
+    background-color: white;
+    border: 1px solid white;
+    height: 350px;
+    margin: 150px auto;
+    width: 1190px;
+}
+.center {
+    background-color: white;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 7px auto;
+    width: 1180px;
+}
+
+.t-head {
+    border: 1px solid black;
+    text-align:center;
+}
+.t-head3{
+    width: 240px;
+}
+
+.t-foot {
+
+}
+.column-center-che{
+    text-align: center;
+}
+.column-border {
+    border: 1px solid black;
+}
+.column-date {
+    width: 100px;
+    text-align: center;
+}
+.column-italy {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.t-head_neutral {
+    border: 1px solid black;
+    text-align: left;
+    width: 260px;
+
+}
+
+.t-foot{
+    border: 5px double black;
+    color: blue;
+    text-align: center;
+}
+.flag {
+    background-image: url();
+    background-repeat: no-repeat;
+}
+
+
+.UK:hover {
+
+}
