@@ -6,14 +6,15 @@
 }
 caption {
     text-align: center;
-}   
-    
+}
+
 .changes {
     background-color: white;
     border: 1px solid white;
     height: 350px;
     margin: 150px auto;
     width: 1190px;
+   
 }
 .center {
     background-color: white;
@@ -32,11 +33,11 @@ caption {
 }
 
 .t-foot {
-
-}
-.column-center-che{
+ border: 5px double black;
+    color: blue;
     text-align: center;
 }
+
 .column-border {
     border: 1px solid black;
 }
@@ -49,6 +50,9 @@ caption {
     color: white;
     text-align: center;
 }
+.text-align{
+    text-align: center;
+}
 .t-head_neutral {
     border: 1px solid black;
     text-align: left;
@@ -56,17 +60,3 @@ caption {
 
 }
 
-.t-foot{
-    border: 5px double black;
-    color: blue;
-    text-align: center;
-}
-.flag {
-    background-image: url();
-    background-repeat: no-repeat;
-}
-
-
-.UK:hover {
-
-}
