@@ -26,7 +26,7 @@ caption {
 
 .t-head {
     border: 1px solid black;
-    text-align:center;
+    text-align: center;
 }
 .t-head3{
     width: 240px;
@@ -62,6 +62,93 @@ caption {
     background-image: url(flags_sprite.png);
     background-repeat: no-repeat;
 }
-.UK {
+.UK:hover {
     background-position: -10px -46px;
 }
+.GER:hover {
+    background-position: -134px -10px;
+    }
+.SWE:hover {
+    background-position: -154px -154px;
+}
+.FRA:hover {
+    background-position: -82px -82px;
+}
+.AUS:hover {
+    background-position: -10px -190px;
+}
+.CHE:hover {
+    background-position: -98px -46px;
+}
+.RUS:hover {
+    background-position: -10px -798px;
+}
+.TUR:hover {
+    background-position: -206px -10px;
+}
+.DEN:hover {
+    background-position: -10px -82px;
+}
+.BEL:hover {
+    background-position: -46px -46px;
+}
+.NLD:hover {
+    background-position: -10px -618px;
+}
+.SRB:hover {
+    background-position: -118px -154px;
+}
+.NLD:hover {
+    background-position: -10px -618px;
+}
+.ESP:hover {
+    background-position: -46px -82px;
+}
+.JPN:hover {
+    background-position: -10px -438px;
+}
+.ARG:hover {
+    background-position: -82px -118px;
+}
+.MNE:hover {
+    background-position: -10px -582px;
+}
+.PRY:hover {
+    background-position: -10px -726px;
+}
+.ITA:hover {
+    background-position: -134px -82px;
+}
+.BUL:hover {
+    background-position: -98px -10px;
+}
+.NOR:hover {
+    background-position: -10px -654px;
+}
+.ROU:hover {
+    background-position: -10px -762px;
+}
+.ALB:hover {
+    background-position: -170px -10px;
+}
+.PRT:hover {
+    background-position: -10px -690px;
+}
+.LIE:hover {
+    background-position: -10px -474px;
+}
+.USA:hover {
+    background-position: -206px -46px;
+}
+.LUX:hover {
+    background-position: -10px -42px;
+}
+.GRC:hover {
+    background-position: -134px -46px;
+}
+.MEX:hover {
+    background-position: -10px -546px;
+}
+
+
+
