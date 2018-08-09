@@ -57,6 +57,11 @@ caption {
     border: 1px solid black;
     text-align: left;
     width: 260px;
-
 }
-
+.flag {
+    background-image: url(flags_sprite.png);
+    background-repeat: no-repeat;
+}
+.UK {
+    background-position: 
+}
